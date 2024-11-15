@@ -1,0 +1,82 @@
+/* Configurações gerais */
+body, html {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+.display-4 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+/* Seção Hero */
+.hero-section {
+    background-size: cover;
+    background-position: center;
+    height: 140vh;
+    color: #fff;
+}
+
+.hero-section a {
+    background-color: #d60708;
+    border-color: #d60708;
+}
+
+/* Sobre Nós */
+#sobre  {
+    background-color: #000;
+}
+
+#sobre p {
+    color: #fff;
+}
+
+#sobre h2 {
+    font-weight: bold;
+    color: #d60708;
+}
+
+/* Planos */
+#planos {
+    background-color: #37322f;
+}
+
+#planos h2 {
+    color: #d60708;
+}
+
+
+#planos .card-title {
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+#planos .price {
+    font-size: 1.2rem;
+    color: #d60708;
+}
+
+/* Contato */
+#contato { 
+    background-color: #000;
+}
+
+#contato h2 {
+    color: #fff;
+}
+
+#contato p {
+    color: #fff;
+}
+
+#contato .btn {
+    color: #fff;
+    background-color: #d60708;
+    border-color: #d60708;
+}
+
+/* Rodapé */
+footer {
+    background-color: #37322f;
+}
